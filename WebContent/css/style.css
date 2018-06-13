@@ -1,0 +1,82 @@
+/* *** .btn-xl *** */
+.btn-xl,.btn-group-xl>.btn{
+min-width:					10px;
+font-size:					3.1em;
+padding:					0.9rem 2rem;
+border-radius:				8px
+} 
+
+/*Button Large*/
+.btn-lg{
+	
+	font-size: 1.4em;;		
+}
+
+/* *** .btn-round *** */
+.btn-round{
+	border-radius:			30px
+}
+
+/* *** .btn-group-round *** */
+.btn-group-round>.btn:first-child:not(:last-child):not(.dropdown-toggle){
+	border-bottom-left-radius:	30px;
+	border-top-left-radius:		30px
+} 
+
+.btn-group-round>.btn:last-child:not(:first-child),.btn-group-round>.dropdown-toggle:not(:first-child){
+	border-bottom-right-radius:	30px;
+	border-top-right-radius:	30px
+} 
+
+.principal-button {
+	margin-bottom: 1.5rem !important;
+}
+
+.principal-button a {
+	/*min-width: 508.6px;*/
+	min-width: 400px;
+}
+
+li{
+
+font-size:	1.4em;
+
+ }
+ 
+ .text-center{
+ 
+ color: white !important;
+ 
+ }
+ 
+ body {
+    color: white;
+}
+
+#tramite{
+	
+	color: #00ff00;
+	
+}
+
+#tramite_select{
+	
+	color: #00ffff;
+	
+}
+
+#ventanilla, #faq{
+
+	color: red;
+	
+}
+
+#unpaz{
+	
+	color: #00ffff;
+	
+}
+
+.btn-tramite {
+	margin: 5px;
+}
