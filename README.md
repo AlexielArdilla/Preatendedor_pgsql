@@ -3,7 +3,7 @@
  __Proyecto de software, tótem de información para Universidad Nac. de José C. Paz. Programado en JavaEE con frontEnd en bootstrap y BBDD PostgreSQL, incluye software de gestión del preatendedor.__
  
 ## screenshot
-         ![logo_peque4mas](https://user-images.githubusercontent.com/10841467/64068539-ddd7e480-cc0f-11e9-8de0-2ffa2a4195c7.jpg)
+   ![logo_peque4mas](https://user-images.githubusercontent.com/10841467/64068539-ddd7e480-cc0f-11e9-8de0-2ffa2a4195c7.jpg)
 
 ### Les dejo el video del proyecto funcionando: 🔧
 [Ver en Youtube el funcionamiento](https://www.youtube.com/watch?v=WLMSg0B760o&t=66s)
