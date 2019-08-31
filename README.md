@@ -1,5 +1,6 @@
-# Preatendedor_pgsql
- Proyecto de software, tótem de información para Universidad Nac. de José C. Paz. Programado en JavaEE con frontEnd en bootstrap y BBDD PostgreSQL, incluye software de gestión del preatendedor.
+# Preatendedor_pgsql 🚀
 
+ __Proyecto de software, tótem de información para Universidad Nac. de José C. Paz. Programado en JavaEE con frontEnd en bootstrap y BBDD PostgreSQL, incluye software de gestión del preatendedor.__
 
-Ver en Youtube: https://www.youtube.com/watch?v=WLMSg0B760o&t=66s
+### Les dejo el video del proyecto funcionando: 🔧
+[Ver en Youtube el funcionamiento](https://www.youtube.com/watch?v=WLMSg0B760o&t=66s)
